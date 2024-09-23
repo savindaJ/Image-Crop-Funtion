@@ -1,0 +1,15 @@
+.crop-container {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  background: #333;
+}
+
+.upload-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
